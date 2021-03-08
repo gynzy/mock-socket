@@ -226,3 +226,5 @@ yarn test:coverage
 ## Feedback
 
 If you have any feedback, encounter any bugs, or just have a question, please feel free to create a [github issue](https://github.com/thoov/mock-socket/issues/new) or send me a tweet at [@thoov](https://twitter.com/thoov).
+
+
