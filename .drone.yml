@@ -24,3 +24,8 @@ trigger:
   event:
     - pull_request
     - tag
+---
+kind: signature
+hmac: 56e6af0578ce3b2ba14898876f6d4860c57091c89bede149498aa3eeccc0434b
+
+...
