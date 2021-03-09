@@ -1,4 +1,6 @@
 {
+  
+  
   "name": "@gynzy/mock-socket",
   "description": "Javascript mocking library for websockets and socket.io",
   "version": "9.0.3-gynzy1",
